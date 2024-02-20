@@ -35,11 +35,11 @@ Split and Merge RGB Image
 ### Step10:
 Split and merge HSV Image
 
-##### Program:
+## Program:
 
 
-### Developed By:
-### Register Number: 
+#### Developed By:
+#### Register Number: 
 
 
 ## Output:
